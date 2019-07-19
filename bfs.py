@@ -61,6 +61,4 @@ g.addEdge(3, 3)
 
 print ("Following is Breadth First Traversal"
 				" (starting from vertex 2)") 
-g.BFS(2) 
-
-# This code is contributed by Neelam Yadav 
+g.BFS(2)
