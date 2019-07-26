@@ -31,3 +31,4 @@
  
 ![DFS](https://user-images.githubusercontent.com/39990761/61957563-2aab1880-afdd-11e9-8ba0-f4534d26608e.JPG)
 
+**The above informed Algortihms code(DFS & BFS) has been already uploaded.**
