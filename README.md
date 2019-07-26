@@ -1,5 +1,5 @@
 # AI-Programs for BFS and DFS
-##i)AI programs on BFS
+### i)AI programs on BFS
   Breadth first search or BFS 
   BFS is the most commonly used approach.
 
@@ -15,6 +15,6 @@ As the name BFS suggests, you are required to traverse the graph breadthwise as 
 
 
 
-##ii)AI programs on DFS
+### ii)AI programs on DFS
   depth first search or DFS
 
