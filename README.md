@@ -28,3 +28,6 @@
   - Repeat this process until the stack is empty. 
   However, ensure that the nodes that are visited are marked. This will prevent you from visiting the same node more than once. If you do     not mark the nodes that are visited and you visit the same node more than once, you may end up in an infinite loop.
 
+ 
+![DFS](https://user-images.githubusercontent.com/39990761/61957563-2aab1880-afdd-11e9-8ba0-f4534d26608e.JPG)
+
